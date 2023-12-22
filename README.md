@@ -15,7 +15,7 @@ I'm making web apps of Minecraft and Bukkit libraries.
 ### Web Apps 🌐
 | Name | Source code | App |
 | :----: | :----: | :----: |
-| Strife Build Simulator | [GitHub](https://github.com/StellaLeaf/StrifeBuildSim) | [Open](https://timer.frogapp.net](https://stellaleaf.github.io/StrifeBuildSim/)) |
+| Strife Build Simulator | [GitHub](https://github.com/StellaLeaf/StrifeBuildSim) | [Open](https://stellaleaf.github.io/StrifeBuildSim/) |
 
 ### Bukkit Library 🪣
 | Name | Source code |
