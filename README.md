@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm making web apps of Minecraft and Bukkit libraries.
-### 🌱 my skills
+### my skills🌱
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,java,html,css,git,github,githubactions" />
 
 <p align="left"> 
@@ -17,14 +17,14 @@ I'm making web apps of Minecraft and Bukkit libraries.
 | :----: | :----: | :----: |
 | Strife Build Simulator | [GitHub](https://github.com/StellaLeaf/StrifeBuildSim) | [Open](https://stellaleaf.github.io/StrifeBuildSim/) |
 
-### Bukkit Library 🪣
+### Bukkit Libraries 🪣
 | Name | Source code |
 | :------: | :------: |
 | LightCMD | [GitHub](https://github.com/StellaLeaf/LightCMD) |
 | ZoomCMD | [GitHub](https://github.com/StellaLeaf/ZoomCMD) |
 
 
-## 📨 Contact me.
+### 📨 Contact me.
 **[Twitter - @StaRaiLeaF](https://twitter.com/StaRaiLeaF)**
 
 **Discord - @stellaleaf**
