@@ -4,7 +4,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=StellaLeaf&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StellaLeaf&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=StellaLeaf&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **StellaLeaf/StellaLeaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
