@@ -13,7 +13,8 @@
 
 ## 📨 Contact me.
 **[Twitter - @StaRaiLeaF](https://twitter.com/StaRaiLeaF)**
-**Discord - @stellaleaf
+
+**Discord - @stellaleaf**
 <!--
 **StellaLeaf/StellaLeaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
