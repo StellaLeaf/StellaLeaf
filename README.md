@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm making web apps of Minecraft and Bukkit libraries.
 ### my skills🌱
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,java,html,css,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,python,java,html,css,git,github" />
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellaLeaf&layout=compact&show_icons=true&theme=onedark" />
