@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm making web apps of Minecraft and Bukkit libraries.
+I'm making web apps and Bukkit libraries.
 ### my skills🌱
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,python,java,html,css,git,github" />
 
