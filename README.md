@@ -16,7 +16,7 @@ I'm making web apps and Bukkit libraries.
 | Name | Source code | App |
 | :----: | :----: | :----: |
 | Strife Build Simulator | [GitHub](https://github.com/StellaLeaf/StrifeBuildSim) | [Open](https://stellaleaf.github.io/StrifeBuildSim/) |
-| SAIKORO de show | [GitHub](https://github.com/StellaLeaf/SAIKORO_de_show) | [Open]([saikoro-de-show.vercel.app](https://saikoro-de-show.vercel.app/)) |
+| SAIKORO de show | [GitHub](https://github.com/StellaLeaf/SAIKORO_de_show) | [Open](https://saikoro-de-show.vercel.app/)) |
 
 ### Bukkit Libraries 🪣
 | Name | Source code |
